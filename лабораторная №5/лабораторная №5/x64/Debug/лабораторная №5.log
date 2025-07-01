@@ -1,0 +1,3 @@
+﻿  5.9.cpp
+C:\Users\User\source\repos\лабораторная №5\лабораторная №5\5.9.cpp(77,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  лабораторная №5.vcxproj -> C:\Users\User\source\repos\лабораторная №5\x64\Debug\лабораторная №5.exe

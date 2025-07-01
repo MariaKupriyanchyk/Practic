@@ -1,0 +1,6 @@
+﻿  function.cpp
+  main.cpp
+C:\Users\User\source\repos\лабораторная №7\лабораторная №7\main.cpp(7,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\лабораторная №7\лабораторная №7\main.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  лабораторная №7.vcxproj -> C:\Users\User\source\repos\лабораторная №7\x64\Debug\лабораторная №7.exe
