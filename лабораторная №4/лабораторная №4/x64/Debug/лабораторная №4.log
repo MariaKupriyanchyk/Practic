@@ -1,0 +1,4 @@
+﻿  4.9.cpp
+C:\Users\User\source\repos\лабораторная №4\лабораторная №4\4.9.cpp(75,9): warning C4302: приведение типов: усечение из "unsigned short *" к "unsigned short"
+C:\Users\User\source\repos\лабораторная №4\лабораторная №4\4.9.cpp(79,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  лабораторная №4.vcxproj -> C:\Users\User\source\repos\лабораторная №4\x64\Debug\лабораторная №4.exe
